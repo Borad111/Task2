@@ -3,7 +3,7 @@ import React from 'react'
 
 function Category() {
   return (
-    <div className='py-20 w-[80%] mx-auto'>
+    <div className='py-20 w-[80%] mx-auto '>
       <div className='text-center'>
         <h1 className='font-medium text-lg'> Enterprice Browser</h1>
         <h1 className='pt-6 font-black text-4xl'>A Browser bulit for <br /> control and compliance</h1>

@@ -7,8 +7,6 @@ function page() {
   return (
     <div className=''>
       <Home/>
-      <Hero/>
-      <Category/>
     </div>
   )
 }
